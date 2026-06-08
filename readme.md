@@ -172,6 +172,12 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum Wiki Page](https://eth.wiki/en/home)
 
 
+## AI Agents & Tools
+
+Tools for AI agents interacting with Ethereum and the broader blockchain ecosystem.
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent wallets. Verify agent wallet identity and get x402 micropayment trust receipts before autonomous agents execute on-chain transactions. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Official
 
 - [Ethereum Website](https://www.ethereum.org/)
